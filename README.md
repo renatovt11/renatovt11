@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @renatovt11
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on a open source project
 - 📫 How to reach me renatovt11@gmail.com
 
