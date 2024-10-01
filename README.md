@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @renatovt11
+<!-- - 👋 Hi, I’m @renatovt11
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Blockchain
 - 📫 How to reach me renatovt11@gmail.com
